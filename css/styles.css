@@ -265,7 +265,7 @@ span {
 
 .portofolio-container .portofolio-box {
     position: relative;
-    border-radius: 100%;
+    border-radius: 50%;
     box-shadow: 0 0 1rem var(--bg-color);
     overflow: hidden;
     display: flex;
